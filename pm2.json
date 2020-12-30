@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "statbot",
+      "script": "index.py",
+      "interpreter": "python3.8",
+      "interpreter_args": "-u"
+    }
+  ]
+}
